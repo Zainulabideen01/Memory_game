@@ -1,0 +1,39 @@
+.heading{
+    text-align: center;
+    color: grey;
+}
+
+.instruction{
+    color: red;
+}
+.gameContainer{
+    padding: 20px;
+    border: 1px solid;
+    height: 530px;
+    width:495px;
+    margin: auto;
+    margin-top: 80px;
+    background-color: lightblue;
+}
+
+
+button{
+    width: 40px;
+    font-size: 1.5rem;
+    padding: 30px 55px;
+    background-color: brown;
+    margin: 7px 3px;
+    border-radius: 10%;
+    border: 2px solid white;
+    color: white;
+}
+
+.dark{
+    background-color: black;
+    color: black;
+}
+
+.copyRight{
+    text-align: center;
+    color: grey;
+}
